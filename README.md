@@ -1,6 +1,3 @@
-<img width="2880" height="1800" alt="Screenshot (81)" src="https://github.com/user-attachments/assets/73a6045f-7743-46ce-86b9-818ebfbf69f5" /># -Static-Website-Hosting-on-AWS-S3-
-
-
 This project shows how to host a static website on AWS S3.
 
 ## Features
