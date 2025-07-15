@@ -37,4 +37,4 @@ MIT
 
 5. website preview
 
-   <img width="2880" height="1800" alt="Screenshot (81)" src="https://github.com/user-attachments/assets/5446ac24-6329-4d8d-9bea-23b8c1f5f2dd" />
+  <img width="2880" height="1622" alt="Screenshot (81)" src="https://github.com/user-attachments/assets/56e9761d-5626-4234-a456-442f3cd707cf" />
